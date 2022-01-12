@@ -1,3 +1,3 @@
-function NumberOne(a, b) {
-    return a + b; 
+function delOne(a, b) {
+    return a - b; 
 }
